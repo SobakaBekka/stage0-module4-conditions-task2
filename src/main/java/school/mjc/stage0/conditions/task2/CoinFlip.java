@@ -9,5 +9,6 @@ public class CoinFlip {
             System.out.println("Tail");
         }
 
+
     }
 }
